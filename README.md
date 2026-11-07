@@ -1,6 +1,6 @@
 # Exercícios Java ☕
 
-Repositório criado para praticar lógica de programação e aprender Java durante meus estudos de Análise e Desenvolvimento de Sistemas (ADS).
+Repositório criado para praticar lógica de programação e aprender Java durante meus estudos de Análise e Desenvolvimento de Sistemas (ADS). (Dentro da pasta src)
 
 ## 📚 Conteúdos
 
